@@ -4,5 +4,6 @@ def line(katz_deli)
 else
   current_sentence = "The line is currently:"
   counter = 1 
-  katz_deli.each do |
+  katz_deli.each do |p|
+    
 end
