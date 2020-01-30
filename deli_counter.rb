@@ -3,5 +3,6 @@ def line(katz_deli)
   puts "The line is currently empty."
 else
   current_sentence = "The line is currently:"
-  counter
+  counter = 1 
+  
 end
