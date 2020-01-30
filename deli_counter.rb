@@ -8,7 +8,7 @@ else
     current_sentence += " #{counter}. #{p}"
       counter += 1
     end
-  puts  current_sentence
+  puts current_sentence
 end
 end
 
